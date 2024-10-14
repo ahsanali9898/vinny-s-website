@@ -1,0 +1,24 @@
+@media (max-width:991px){
+
+.text-content{
+    width: 100%;
+    margin: auto;
+}
+.navigation-wrap .navbar-brand img{
+    height:3rem;
+}
+.navigation-wrap{
+    text-align: center;
+    background: rgb(20, 20, 17);
+    
+    
+}
+.navigation-wrap .nav-item{
+    line-height:2rem;
+    color: rgb(3, 3, 19);
+}
+.TOGGLE{
+    background-color: white;
+}
+}
+
